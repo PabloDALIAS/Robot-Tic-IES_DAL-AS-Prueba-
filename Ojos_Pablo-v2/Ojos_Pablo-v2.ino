@@ -4,7 +4,8 @@ Servo Vertical;
 #define PinBoton 2;
 #define PinPotenciometro A3;
  
-//Editado con Git Hub
+//Editado con Git Hub por yo
+
 //DEFINE EL PIN INPUT PARA EL BOTÓN (DIGITAL)  0, 1, 2, 3, 4, 5, ...
 //ENTRADA ANALÓGICA DEL POTENCIÓMETRO (ANALÓGICO) A0, A1.....
 
